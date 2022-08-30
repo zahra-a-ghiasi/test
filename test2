@@ -1,0 +1,15 @@
+function add7(number){
+return number+7
+};
+console.log(add7(7));
+function multiply(number1,number2){
+    return number1 * number2
+}
+console.log(multiply(2,2));
+
+var str1='jfjr';
+console.log(str1.toUpperCase());
+let text = "jfjr";
+let letter = text.charAt(text.length-1);
+console.log(letter.toUpperCase());
+
